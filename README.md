@@ -5,3 +5,5 @@ Also, data visualization graphs will be present that'd explain the dataset.
 
 Considering the size of the dataset used, it cannot be uploaded in the github, I'm providing the dataset source link below for reference.
 Dataset link - https://www.kaggle.com/datasets/vardhansiramdasu/fraudulent-transactions-prediction
+
+I'll also be adding the architectural diagram code using Python to this repository shortly, visualizing the entire application development workflow.
